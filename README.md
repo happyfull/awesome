@@ -2,4 +2,4 @@
 my first repository,just fun
 
 today is wednesday,also midweek
-中国上海杨浦！
+do you know git guide https://guides.github.com/
